@@ -1,0 +1,82 @@
+{  
+    "ques" : [  
+        "Q1. In python, what is method inside class?",  
+        "Q2. ___ represents an entity in the real world with its identity and behaviour",  
+        "Q3. ___ is used to create an object",  
+        "Q4. What is setattr() used for?",  
+        "Q5. What is instantiation in OOP?", 
+	    "Q6. Which is not a fundamental feature of OOP?",
+	    "Q7. In python, what is method inside class?", 
+	    "Q8. All subclassses are a subtype in OOP",
+	    "Q9. Private members of a class cannot be accessed",
+	    "Q10. A class in which one or mpore methods are only implemented to raise an exception is called an abstract class"
+    ],  
+    "ans" : [  
+        4,  
+        2,  
+        2,  
+        1,  
+        1,
+	2,
+	4, 
+	2, 
+	2,
+	1
+    ],  
+    "choices" : [  
+        [  
+        "Attribute",  
+        "Object",  
+        "Argument",  
+        "Function"  
+        ],  
+        [  
+        "Class",  
+        "Object",  
+        "Method",  
+        "Operator"  
+        ],  
+        [  
+        "Class",  
+        "Constructor",  
+        "In-built functions",  
+        "User-defined functions"  
+        ],  
+        [  
+        "To set an attribute",  
+        "To delete an attribute",  
+        "To check existence of an attribute",  
+        "To access the attribute of the project"  
+        ],  
+        [  
+        "Create an instance of a class",  
+        "Copy and instance of a class",  
+        "Delete an instance of a class",  
+        "Modify an instance of a class"  
+        ],  
+	[
+	"Inheritance",
+	"Instantiation",
+	"Encapsulation",
+	"Polymorphism"
+	],
+	[
+	"Attribute",
+	"Object",
+	"Argument",
+	"Function"
+	],
+	[
+	"True",
+	"False"
+	],
+	[
+	"True",	
+	"False"
+	],
+	[
+	"True",
+	"False"
+	]
+    ]  
+}  
